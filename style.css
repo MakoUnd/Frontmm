@@ -61,3 +61,13 @@ select{
     height: 20px;
     cursor: pointer;
 }
+
+ .box {border: 1px solid red;
+       width: 240px;
+       height: 160px;
+       mergin-top: 40px;
+       transform: translate(30px, 20px);
+      }
+
+       
+       
