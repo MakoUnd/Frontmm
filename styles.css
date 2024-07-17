@@ -1,0 +1,9 @@
+/*|| Header */
+.header {
+    background-color:black
+    color #ffffff
+}
+    .nav-list {
+        display: flex;
+        gap: 45px;
+    }
